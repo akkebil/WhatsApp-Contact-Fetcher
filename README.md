@@ -1,5 +1,5 @@
 # WhatsApp Contact Fetcher - (Web browser extension)
-![Screenshot](dump-screen.png?raw=true) ![Screenshot](dump-screen-2.png?raw=true)
+![Screenshot](dump-screen.png?raw=true) ![Screenshot](dump-screen-3.png?raw=true)
 
 WhatsApp Contact Fetcher is a useful script designed to facilitate retrieving contacts from WhatsApp chat groups where no names are entered. Sometimes it happens that chat groups contain only phone numbers without associated names, which can make it difficult to organize and manage the contacts in an efficient way.
 
