@@ -47,4 +47,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 
 ## Author and Contact Information
 
-WhatsApp Contact Fetcher is developed by Ahmet Bilir. If you have any questions, suggestions or feedback, you can reach me at [contact info].
+WhatsApp Contact Fetcher is developed by Ahmet Bilir. If you have any questions, suggestions or feedback, you can reach me at akke_bil@live.com.
