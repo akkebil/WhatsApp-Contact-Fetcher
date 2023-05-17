@@ -28,20 +28,18 @@ Save time and simplify the management of your WhatsApp contacts by using WhatsAp
 4. Enable Developer Mode: Make sure you have enabled "Developer mode" by clicking the box at the top right of the Chrome extensions page.
 5. Load the extension: Click on "Load unpacked" (alternatively "Lagg till unpackad" in Swedish) and select the folder where you have extracted the extension. If all goes well, the extension will load into the browser and appear on the Chrome extensions page.
 
-To use the extension, all files need to be organized within a folder or in a ZIP file. This structure is necessary for the extension to be uploaded and installed correctly in the browser.
+**Note:**
 
-Note that the name of the ZIP file has no meaning for the extension itself. It is the actual content and structure of the files inside the ZIP file that defines the extension.
+>To use the extension, all files need to be organized within a folder or in a ZIP file. This structure is necessary for the extension to be uploaded and installed correctly in the browser.
 
-To use the extension, all files need to be organized within a folder or in a ZIP file. This structure is necessary for the extension to be uploaded and installed correctly in the browser.
+>Note that the name of the ZIP file has no meaning for the extension itself. It is the actual content and structure of the files inside the ZIP file that defines the extension.
 
-Note that the name of the ZIP file has no meaning for the extension itself. It is the actual content and structure of the files inside the ZIP file that defines the extension.
-
-WhatsApp-Contact-Fetcher/
-  ├── manifest.json
-  ├── popup.html
-  ├── popup.js
-  ├── contentScript.js
-  ├── icon16.png
+>WhatsApp-Contact-Fetcher
+>  ├── manifest.json
+>  ├── popup.html
+>  ├── popup.js
+>  ├── contentScript.js
+>  ├── icon16.png
 
 ## Contribution guide
 
