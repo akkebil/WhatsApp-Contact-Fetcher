@@ -20,6 +20,18 @@ Save time and simplify the management of your WhatsApp contacts by using WhatsAp
 5. Write the desired format and click OK or Cancel.
 6. A file will be downloaded with your contacts in the selected format.
 
+## Adding a Chrome extension. Here is a brief explanation on how to do it:
+
+1. Download the extension: Usually you get the extension in the form of a ZIP file from the developer or from a source like git.
+2. Extract the ZIP file: If the extension is in ZIP format, extract it to a folder (WhatsApp-Contact-Fetcher) on your computer.
+3. Open the Chrome extensions page: Open your Chrome browser and enter the following in the address bar: chrome://extensions/. Then press Enter.
+4. Enable Developer Mode: Make sure you have enabled "Developer mode" by clicking the box at the top right of the Chrome extensions page.
+5. Load the extension: Click on "Load unpacked" (alternatively "Lagg till unpackad" in Swedish) and select the folder where you have extracted the extension. If all goes well, the extension will load into the browser and appear on the Chrome extensions page.
+
+To use the extension, all files need to be organized within a folder or in a ZIP file. This structure is necessary for the extension to be uploaded and installed correctly in the browser.
+
+Note that the name of the ZIP file has no meaning for the extension itself. It is the actual content and structure of the files inside the ZIP file that defines the extension.
+
 To use the extension, all files need to be organized within a folder or in a ZIP file. This structure is necessary for the extension to be uploaded and installed correctly in the browser.
 
 Note that the name of the ZIP file has no meaning for the extension itself. It is the actual content and structure of the files inside the ZIP file that defines the extension.
