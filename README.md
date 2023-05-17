@@ -36,13 +36,14 @@ Save time and simplify the management of your WhatsApp contacts by using WhatsAp
 
 >Note that the name of the ZIP file has no meaning for the extension itself. It is the actual content and structure of the files inside the ZIP file that defines the extension.
 
->WhatsApp-Contact-Fetcher
->  ├── manifest.json
->  ├── popup.html
->  ├── popup.js
->  ├── contentScript.js
->  ├── icon16.png
-
+```
+WhatsApp-Contact-Fetcher                                    
+ ├── manifest.json                         
+ ├── popup.html
+ ├── popup.js
+ ├── contentScript.js
+ ├── icon16.png
+```
 ## Contribution guide
 
 You are welcome to contribute new suggestions or improve the code by following these steps:
