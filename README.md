@@ -13,6 +13,14 @@ Note that WhatsApp Contact Fetcher is independent of external web services or AP
 
 Save time and simplify the management of your WhatsApp contacts by using WhatsApp Contact Fetcher and get a structured list of contacts in an instant.
 
+## The "Why?"
+
+This project came about as a result of a need to quickly extract phone numbers from a WhatsApp chat group. After searching for existing solutions without success, I decided to create my own script to solve the problem.
+
+It is important to note that it is free to use, and you can build on the code to adapt it to your own needs.
+
+Was all this necessary? Maybe not... but now it's done :)
+
 ## Usage
 
 1. Open WhatsApp in your browser.
