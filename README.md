@@ -20,7 +20,7 @@ Save time and simplify the management of your WhatsApp contacts by using WhatsAp
 5. Write the desired format and click OK or Cancel.
 6. A file will be downloaded with your contacts in the selected format.
 
-## Adding a Chrome extension. Here is a brief explanation on how to do it:
+## Adding a Chrome extension. Here is a brief explanation on how to do it
 
 1. Download the extension: Usually you get the extension in the form of a ZIP file from the developer or from a source like git.
 2. Extract the ZIP file: If the extension is in ZIP format, extract it to a folder (WhatsApp-Contact-Fetcher) on your computer.
