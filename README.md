@@ -20,6 +20,17 @@ Save time and simplify the management of your WhatsApp contacts by using WhatsAp
 5. Write the desired format and click OK or Cancel.
 6. A file will be downloaded with your contacts in the selected format.
 
+To use the extension, all files need to be organized within a folder or in a ZIP file. This structure is necessary for the extension to be uploaded and installed correctly in the browser.
+
+Note that the name of the ZIP file has no meaning for the extension itself. It is the actual content and structure of the files inside the ZIP file that defines the extension.
+
+WhatsApp-Contact-Fetcher/
+  ├── manifest.json
+  ├── popup.html
+  ├── popup.js
+  ├── contentScript.js
+  ├── icon16.png
+
 ## Contribution guide
 
 You are welcome to contribute new suggestions or improve the code by following these steps:
