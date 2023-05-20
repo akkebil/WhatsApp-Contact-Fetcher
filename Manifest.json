@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "WhatsApp Contact Fetcher",
+    "version": "1.0",
+    "description": "Fetch contact details from WhatsApp",
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "48": "icon.png"
+      }
+    },
+    "permissions": [
+      "activeTab",
+      "downloads",
+      "http://*/*",
+      "https://*/*"
+    ]
+  }
+  
