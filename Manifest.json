@@ -1,6 +1,7 @@
 {
     "manifest_version": 2,
     "name": "WhatsApp Contact Fetcher",
+    "author": "Ahmet. B"
     "version": "1.0",
     "description": "Fetch contact details from WhatsApp",
     "browser_action": {
