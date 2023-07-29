@@ -19,7 +19,7 @@ This project came about as a result of a need to quickly extract phone numbers f
 
 It is important to note that it is free to use, and you can build on the code to adapt it to your own needs.
 
-Was all this necessary? Maybe not... but now it's done :)
+Was all this necessary? Maybe... but now it's done :) . It was a whey of learning for me.
 
 ## Usage
 
